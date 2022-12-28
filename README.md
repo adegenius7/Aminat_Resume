@@ -1,1 +1,0 @@
-# Aminat_Resume
