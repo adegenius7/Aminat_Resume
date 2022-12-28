@@ -7,7 +7,7 @@
     <title>Aminat Azeez</title>
 </head>
 <body>
-    <img src="/Images/IMG-20221218-WA0028.jpg" alt="Profile Picture" height="300px" style="border: 150px;" >
+    <img src="Images/IMG-20221218-WA0028.jpg" alt="Profile Picture" height="300px" style="border: 150px;" >
     <h1>Aminat Azeez</h1>
     <h5>Entry level <strong><em>Data Analyst</em></strong></h5>
     <hr size="1px" noshade="1px" align="center">
